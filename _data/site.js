@@ -1,20 +1,20 @@
 module.exports = {
   meta: {
-    title: "My Purple Blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    title: "Demystifying Rare Genetic Diseases",
+    description: "A comprehensive portal for all Information, Education and Communication resources related to Rare Genetic Diseases",
     lang: "en",
     siteUrl: "https://example.com/",
   },
   feed: { // used in feed.xml.njk
-    subtitle: "Lorem ipsum dolor sit amet consecuteor",
+    subtitle: "Demystifying Rare Genetic Diseases",
     filename: "atom.xml",
     path: "/atom.xml",
     id: "https://example.com/",
-    authorName: "John Doe",
-    authorEmail: "johndoe@example.com"
+    authorName: "Tata Institute for Genetics and Society, Bengaluru",
+    authorEmail: ""
   },
   hero: { // used in hero section of main page ie. index.html.njk
-    title: "Welcome to my purple blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores accusantium deserunt odio esse."
+    title: "Demystifying Rare Genetic Diseases",
+    description: "A comprehensive portal for all Information, Education and Communication resources related to Rare Genetic Diseasesdes"
   }
 }
